@@ -1,0 +1,3 @@
+.eggs/
+envtest.*
+envtest/__pycache__/
